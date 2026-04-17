@@ -1,2 +1,2 @@
-# portfolio-j
+# portfolio-jekyll
 portfolio blog showcase site 
