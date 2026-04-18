@@ -20,7 +20,7 @@
 
 title: Dominik Jagosz
 description: >- # this means to ignore newlines until "baseurl:"
- site description
+  Portfolio blog showcase site made with GitHub Pages and Jekyll Minima theme. [github.com/Kieplin/portfolio-jekyll](https://github.com/Kieplin/portfolio-jekyll)
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /portfolio-jekyll # place folder name if the site is served in a subfolder
@@ -44,15 +44,15 @@ minima:
   skin: auto
   date_format: "%Y-%m-%d"
   social_links:
-    - title: Jekyll repository at GitHub
-      icon: github
-      url: "https://github.com/kieplin"
-    - title: Github do projektów uczelnianych
+    - title: Github for university projects
       icon: github
       url: "https://github.com/domjag5"
-    - title: Jekyll at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/jekyllrb"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/@keplin11"
+    - title: personal GitHub
+      icon: github
+      url: "https://github.com/kieplin"
 
 author:
   name: Dominik Jagosz
