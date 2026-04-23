@@ -53,7 +53,9 @@ minima:
     - title: personal GitHub
       icon: github
       url: "https://github.com/kieplin"
-
+  nav_pages:
+    - cv.md
+    - about.markdown
 author:
   name: Dominik Jagosz
   email: domjag5@st.amu.edu.pl

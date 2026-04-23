@@ -2,7 +2,7 @@
 layout: post
 title:  "Books read in the current year."
 date:   2025-01-01 12:00:00 +0100
-categories: hobby personal reviews
+categories: hobby
 ---
 
 Book that I finished reading in the current year.

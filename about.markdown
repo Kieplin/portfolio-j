@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dominik Jagosz's portfolio blog site. Made with GitHub Pages and Jekyll Minima theme.
+
+You can find the source code of this website at GitHub:
+[kieplin](github.com/kieplin) /
+[portfolio-jekyll](github.com/kieplin/portfolio-jekyll)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
