@@ -20,7 +20,7 @@
 
 title: Dominik Jagosz
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio blog showcase site made with GitHub Pages and Jekyll Minima theme. [github.com/Kieplin/portfolio-jekyll](https://github.com/Kieplin/portfolio-jekyll)
+  Portfolio showcase site. [github.com/Kieplin/portfolio-jekyll](https://github.com/Kieplin/portfolio-jekyll)
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /portfolio-jekyll # place folder name if the site is served in a subfolder
@@ -47,9 +47,9 @@ minima:
     - title: Github for university projects
       icon: github
       url: "https://github.com/domjag5"
-    - title: YouTube
-      icon: youtube
-      url: "https://www.youtube.com/@keplin11"
+    #- title: YouTube
+    #  icon: youtube
+    #  url: "https://www.youtube.com/@keplin11"
     - title: personal GitHub
       icon: github
       url: "https://github.com/kieplin"

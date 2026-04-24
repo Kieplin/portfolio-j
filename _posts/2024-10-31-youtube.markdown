@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Video editing and intellectual property rights."
+date:   2024-10-31 12:00:00 +0200
+categories: hobby
+---
+
+I took a class on intellectual property rights and know about the types of licences commonly used in software development. I am aware of copyright and fair use rights. I know how to find free resources and use them with attribution.
+
+I apply this knowledge in my video edits in DaVinci Resolve.
+
+<iframe 
+  src="https://www.youtube.com/embed/8f17gkkNW0c" 
+  style="width: 100%; aspect-ratio: 16 / 9; border-radius: 8px;" 
+  allowfullscreen
+></iframe>
