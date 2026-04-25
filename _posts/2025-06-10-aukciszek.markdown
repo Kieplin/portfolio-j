@@ -1,9 +1,17 @@
 ---
 layout: post
 title:  "Aukciszek: cryptographically secure auctions."
-date:   2025-06-10 12:00:00 +0100
+date:   2025-06-10 12:00:00 +0200
 categories:  projects
 ---
+
+## *Aukciszek*
+
+*Aukciszek* is a research and development team project developed throughout my master's degree. It is a cryptographically secure auction platform that uses Shamir secret-sharing scheme and multi-party-computation to conduct auctions in a semi-trusted environment. Its server side is developed in Python and the client site is made with Typescript.
+
+The source code is made public at [github.com/Aukciszek](https://github.com/Aukciszek). For testing we conducted auctions on Azure servers and secured their connection with HTTPS and JSON Web Tokens.
+
+I contributed mainly to its server side, implementing cryptographic protocols. I also wrote my [master's thesis]( {{ site.baseurl }}{% post_url 2025-09-30-masters-thesis %}) on it.
 
 ### Final presentation (2025-06-10)
 
@@ -11,9 +19,9 @@ categories:  projects
 
 ### Poster outlining the project (2025-01-22)
 
-[Aukciszek on WMI UAM website](https://wmi.amu.edu.pl/wydzial/projekty/studenckie-projekty-badawczo-rozwojowe/20242025/aukciszek)
+[*Aukciszek* on UAM WMI website](https://wmi.amu.edu.pl/wydzial/projekty/studenckie-projekty-badawczo-rozwojowe/20242025/aukciszek)
 
-<iframe src="{{ './resources/Aukciszek_poster.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1 / 1;">>
+<iframe src="{{ '/resources/Aukciszek_poster.pdf' | relative_url }}" style="width: 100%; aspect-ratio: 1 / 1;">>
 </iframe>
 
 ### Pitch deck (2024-11-08)

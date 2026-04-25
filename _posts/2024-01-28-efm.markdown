@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Escape From Morasko: libGDX mobile rouge-like."
+date:   2024-01-28 12:00:00 +0100
+categories:  projects
+---
+
+## *Escape From Morasko*
+
+*Escape From Morasko* is an engineering team project developed during the last year of my engineer's degree. It is a turn-based rouge-like mobile game with procedurally generated levels. It was written in Kotlin with libGDX framework for Android devices, using best object-oriented programming practises.
+
+The source code is made public at [github.com/mmarlewski/escape-from-morasko](https://github.com/mmarlewski/escape-from-morasko). The app was launched on Google Play Store and is available for download on [itch.io](https://escapefrommorasko.itch.io/escape-from-morasko).
+
+I also wrote my [engineer's thesis]( {{ site.baseurl }}{% post_url 2024-02-09-engineers-thesis %}) on the specifics of the Kotlin language that help with software development.
+
+![gif use skill pull]({{ "/resources/gif_4.gif" | relative_url }})
+
+![gif hero hit]({{ "/resources/gif_2.gif" | relative_url }})
+
+![gif use bomb]({{ "/resources/gif_3.gif" | relative_url }})
+
+![gif use sledgehammer check weapon stats]({{ "/resources/gif_6.gif" | relative_url }})
