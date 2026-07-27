@@ -10,15 +10,13 @@ Showcased items are described in posts displayed from newest on the [Main Page](
 
 You can find the source code of this website at GitHub:
 [kieplin](https://github.com/kieplin) /
-[portfolio-jekyll](https://github.com/kieplin/portfolio-jekyll)
-
-You can find the source code for Minima at GitHub:
+[portfolio-jekyll](https://github.com/kieplin/portfolio-jekyll);\
+the source code for Minima:
 [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
+[minima](https://github.com/jekyll/minima);\
+the source code for Jekyll:
 [jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[jekyll](https://github.com/jekyll/jekyll).
 
 
 [jekyll-organization]: https://github.com/jekyll
