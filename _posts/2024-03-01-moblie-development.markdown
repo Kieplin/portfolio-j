@@ -9,9 +9,9 @@ While studying Computer Science, I chose courses that gave me a good overview of
 
 - Laboratory of Mobile Devices
 
-Focused mostly on Kotlin programming in Android Studio using XML layouts, but my final project was a Hashi (Bridges) puzzle game with randomly generated levels, made in Unity. For showcasing I hosted a WebGL build from [https://github.com/domjag5/unity-mosty](https://github.com/domjag5/unity-mosty).
+Focused mostly on Kotlin programming in Android Studio using XML layouts, but my final project was a Hashi (Bridges) puzzle game with randomly generated levels, made in Unity. For showcasing I hosted a WebGL build from [github.com/domjag5/unity-mosty](https://github.com/domjag5/unity-mosty).
 
-<iframe src="domjag5.github.io/unity-mosty" style="width: 100%; aspect-ratio: 1 / 0.6;" >
+<iframe src="https://domjag5.github.io/unity-mosty" style="width: 100%; aspect-ratio: 1 / 0.6;" >
 </iframe>
 
 - Mobile Systems Security
