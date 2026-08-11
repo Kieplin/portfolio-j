@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Innovation Design and Business Development course."
+title:  "Innovation Design and Business Development."
 date:   2022-06-22 12:00:00 +0100
 categories: courses
 ---

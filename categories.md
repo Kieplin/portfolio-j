@@ -4,6 +4,8 @@ title: "Categories"
 permalink: /categories
 ---
 
+Posts by category ([view chronologically]({{ "/" | relative_url }})).
+
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
 

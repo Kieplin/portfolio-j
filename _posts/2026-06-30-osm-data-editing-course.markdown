@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpenStreetMap data editing course."
+title:  "OpenStreetMap data editing."
 date:   2026-06-30 12:00:00 +0100
 categories: courses
 ---

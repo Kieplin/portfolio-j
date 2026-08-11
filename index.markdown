@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+All posts displayed chronologically ([view by category]({{ "/categories" | relative_url }})).
