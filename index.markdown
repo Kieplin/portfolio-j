@@ -5,4 +5,8 @@
 layout: home
 ---
 
+I am a Computer Science graduate specialising in cybersecurity. My main interests include cryptography, programming, and security architecture. This website showcases my experience, coursework, and various projects.
+
+---
+
 All posts displayed chronologically ([view by category]({{ "/categories" | relative_url }})).

@@ -1,10 +1,13 @@
 ---
-layout: page
-title: "Categories"
+layout: base
 permalink: /categories
 ---
 
-Posts by category ([view chronologically]({{ "/" | relative_url }})).
+I am a Computer Science graduate specialising in cybersecurity. My main interests include cryptography, programming, and security architecture. This website showcases my experience, coursework, and various projects.
+
+---
+
+All posts displayed by category ([view chronologically]({{ "/" | relative_url }})).
 
 {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}

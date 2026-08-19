@@ -16,9 +16,7 @@ Focused mostly on Kotlin programming in Android Studio using XML layouts, but my
 
 - Mobile Systems Security
 
-Studied Android permissions and security architecture, explored the risks such as SharedPreferences leakage and covert-channel attacks, secured apps with Android Keystore functionalities.
-
-<!-- colluding apps -->
+Studied Android permissions and security architecture, explored the risks such as SharedPreferences leakage and covert-channel attacks (built a pair of colluding apps), secured apps with Android Keystore functionalities.
 
 - User Experience and Building Usable Interfaces
 
